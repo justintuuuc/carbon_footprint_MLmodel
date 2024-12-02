@@ -1,4 +1,4 @@
-# carbon_footprint_MLmodel
+# Final Project: carbon_footprint_MLmodel
 
 This project explores the prediction of carbon emissions using machine learning regression models. The focus is on optimizing performance through feature preprocessing, encoding techniques, and hyperparameter tuning.
 
